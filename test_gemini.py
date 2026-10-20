@@ -26,4 +26,5 @@ try:
 
 except Exception as exc:
     print("\nGemini API request failed.")
+>>>>>>> master
     print("Error:", exc)
